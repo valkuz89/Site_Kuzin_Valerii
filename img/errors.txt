@@ -1,0 +1,2 @@
+[Wed Mar 20 2019 10:47:32 GMT+0200 (Финляндия (зима))] layer "+8801743331996 +8801928737807": Expected Either a default asset specification or a layer asset specification but "+" found.
+[Wed Mar 20 2019 10:47:32 GMT+0200 (Финляндия (зима))] layer "quickmasud@gmail.com quickmasud@yahoo.com": Unsupported extension: com

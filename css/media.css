@@ -1,0 +1,100 @@
+@media (max-width: 1199px) {
+    section {
+        padding: 50px 0;
+    }
+    .filter {
+        justify-content: center;
+        padding: 70px 0 40px 0;
+    }
+    .about__text {
+        margin: 10px 0 40px 0;
+    }
+    .triangle-topleft {
+        display: none;
+    }
+    .team__name {
+        margin: 15px 0 5px;
+    }
+    .team__profession {
+        margin-bottom: 7px;
+    }
+    .team__nets a {
+        font-size: 35px;
+        margin-bottom: 35px;
+    }
+    .blog__theme a {
+        margin: 5px 0;
+    }
+    .blog button {
+        margin-top: 40px;
+    }
+    footer {
+        padding-top: 50px;
+    }
+    .contact__icon {
+        margin: 0 0 15px;
+    }
+}
+@media (max-width: 991px) {
+    .menu-bar nav.navbar div > ul {
+        flex-direction: column;
+        width: max-content;
+        margin-left: auto;
+    }
+    .menu__item {
+        margin-bottom: 10px;
+    }
+    .header__title {
+        font-size: 40px;
+        margin-bottom: 15px;
+    }
+    .header__text {
+        font-size: 17px;
+    }
+}
+@media (max-width: 767px) {
+    .menu-bar nav.navbar > a {
+        margin-left: 0;
+    }
+    .header {
+        padding: 100px 0;
+    }
+    .header__title {
+        max-width: 320px;
+        margin: 0 auto 15px;
+    }
+    .portfolio .col-xl-8 {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .header .button,
+    .portfolio .col-xl-8 .button {
+        display: block;
+        width: 176px;
+        height: 66px;
+        margin: 0 auto 20px;
+    }
+    .portfolio .col-xl-8 .button {
+        margin: 0 5px 10px 5px;
+    }
+    .blog__reverse {
+        margin: 15px -15px;
+        flex-direction: column-reverse;
+    }
+    .contact__icon a {
+        font-size: 20px;
+    }
+    .contact__icon p {
+        margin-top: 20px;
+        font-size: 20px;
+    }
+}
+@media (max-width: 576px) {
+    .header {
+        padding: 50px 0;
+    }
+    .team__nets {
+        padding: 0 5px;
+    }
+}
